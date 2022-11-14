@@ -24,7 +24,7 @@
   <img align="center" alt="Savio-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"">
   <img align="center" alt="Savio-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
-          
+           
           
 </div>        
  
@@ -36,5 +36,5 @@
   <a href="https://www.linkedin.com/in/s%C3%A1vio-anjos-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/Savio-Anjos/Savio-Anjos/blob/output/github-contribution-grid-snake.svg)
- 
+    
 </div>
