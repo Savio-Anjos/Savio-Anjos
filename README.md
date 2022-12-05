@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com desenvolvimento Full Stack  
 - 🌱 Estudando ReactJS, NodeJS e Typescript  
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele 
       
 <div style="display: block">
   <a href="https://github.com/Savio-Anjos">
