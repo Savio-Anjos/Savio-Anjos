@@ -7,7 +7,7 @@
 <div style="display: block">
   <a href="https://github.com/Savio-Anjos">
       
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savio-Anjos&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-anjos&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>  
       
   <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savio-Anjos&layout=compact&langs_count=7&theme=outrun"/>
 </div>
