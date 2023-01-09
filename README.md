@@ -7,9 +7,9 @@
 <div style="display: block">
   <a href="https://github.com/Savio-Anjos">
       
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-anjos&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-anjos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>  
       
-  <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-anjos&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-anjos&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <h2 align="left">My Skills</h2>
