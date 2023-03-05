@@ -1,5 +1,5 @@
    
-### Olá! Eu sou Sávio Anjos😁
+### Olá! Eu sou Sávio Anjos
   
 - 🔭 Hoje trabalho com desenvolvimento Full Stack
 - 🌱 Estudando ReactJS, NodeJS e Typescript 
