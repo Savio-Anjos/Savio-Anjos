@@ -5,7 +5,7 @@
 - 🌱 Estudando React.js, Node.js e Typescript 
 - 😄 Pronouns: ele/dele
       
-<div style="display: block">
+<div style="display: block"> 
   <a href="https://github.com/Savio-Anjos">
       
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=savio-anjos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
