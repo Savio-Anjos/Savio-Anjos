@@ -5,6 +5,11 @@
 - 🔭 Hoje trabalho com desenvolvimento Full Stack  
 - 🌱 Estudando React.js, Node.js e Typescript 
 - 😄 Pronouns: ele/dele  
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Savio-Anjos&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <br>
       
 <div  align="center">  
   <a href="https://github.com/Savio-Anjos">
@@ -14,9 +19,9 @@
       
 </div>
 
-  <br>
+
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Savio-Anjos&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
       
 <h2 align="left">My Skills</h2>
