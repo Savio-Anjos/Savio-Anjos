@@ -1,7 +1,7 @@
    
 ### Olá! Eu sou Sávio Anjos 
   
-- 🔭 Hoje trabalho com desenvolvimento Full Stack 
+- 🔭 Hoje trabalho com desenvolvimento Full Stack  
 - 🌱 Estudando React.js, Node.js e Typescript 
 - 😄 Pronouns: ele/dele  
       
