@@ -13,11 +13,6 @@
  <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-anjos&layout=compact&langs_count=7&theme=algolia"/>  
       
 </div>
-
-
-  
-
-
       
 <h2 align="left">My Skills</h2>
 <div style="display: inline_block"><br>
