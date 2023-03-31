@@ -38,6 +38,6 @@
  
  ![Snake animation](https://github.com/Savio-Anjos/Savio-Anjos/blob/output/github-contribution-grid-snake.svg)
      
-</div>
+</div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
