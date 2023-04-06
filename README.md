@@ -34,11 +34,12 @@
   <h2 align="left">My Skills Back-End</h2>
 <div style="display: inline_block"><br>
  
-<img align="center" alt="Savio-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
- 
+  
  <img align="center" alt="Savio-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  
  <img align="center" alt="Savio-Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ 
+<img align="center" alt="Savio-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
  
  <img align="center" alt="Savio-Graphql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
  
