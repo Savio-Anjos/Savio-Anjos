@@ -48,8 +48,8 @@
  <img align="center" alt="Savio-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
  
  <img align="center" alt="Savio-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-                                                                                                                                                    
-</div>      
+                                                                                                                                                     
+</div>       
  <br  
     
 <div>  
