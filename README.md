@@ -33,7 +33,7 @@
 </div>      
  <br> 
  
-  <h2 align="left">My Skills Back-End</h2>
+  <h2 align="left">My Skills Back-End</h2> 
 <div style="display: inline_block"><br>
   
   
