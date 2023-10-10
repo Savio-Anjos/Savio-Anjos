@@ -63,6 +63,6 @@
   <a href = "mailto:savioanjos2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/s%C3%A1vio-anjos-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/Savio-Anjos/Savio-Anjos/blob/output/github-contribution-grid-snake.sv)  
+ ![Snake animation](https://github.com/Savio-Anjos/Savio-Anjos/blob/output/github-contribution-grid-snake.svg)  
 </div>      
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
