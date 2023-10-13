@@ -12,6 +12,10 @@
  <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savio-Anjos&layout=compact&langs_count=7&theme=algolia"/>  
        
 </div>  
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Savio-Anjos&theme=algolia&border_radius=8"/>
+</div>
        
 <h2 align="left">My Skills Front-End</h2>
 <div style="display: inline_block"><br>
