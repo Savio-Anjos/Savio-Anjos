@@ -55,7 +55,7 @@
   
  <img align="center" alt="Savio-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
- <img align="center" alt="Savio-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg""/>
+ <img align="center" alt="Savio-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
                                                                                                                                                      
 </div>  
   
