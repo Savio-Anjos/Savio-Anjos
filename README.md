@@ -30,12 +30,20 @@
  
 <img align="center" alt="Savio-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 
+<img align="center" alt="Savio-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+
+<img align="center" alt="Savio-Vite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+
 <img align="center" alt="Savio-Redux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> 
  
 <img align="center" alt="Savio-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
- <img align="center" alt="Savio-SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />                                           
-                                                                                                                                             
+<img align="center" alt="Savio-Cypress" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
+
+<img align="center" alt="Savio-SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+<img align="center" alt="Savio-Antdesign" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
+
 <img align="center" alt="Savio-Tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <img align="center" alt="Savio-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -47,10 +55,14 @@
   
   
  <img align="center" alt="Savio-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+  <img align="center" alt="Savio-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+
+ <img align="center" alt="Savio-Fastify" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg">
  
  <img align="center" alt="Savio-Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
  
- <img align="center" alt="Savio-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+ <img align="center" alt="Savio-Prisma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /> 
   
  <img align="center" alt="Savio-Graphql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
  
@@ -59,6 +71,8 @@
  <img align="center" alt="Savio-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
  <img align="center" alt="Savio-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+
+  <img align="center" alt="Savio-Vitest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"/>
                                                                                                                                                      
 </div>  
   
