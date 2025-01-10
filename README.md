@@ -16,8 +16,6 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Savio-Anjos&theme=algolia&border_radius=8"/>
 </div>
-
- ![Snake animation](https://github.com/savio-anjos/savio-anjos/blob/output/github-contribution-grid-snake.svg)
        
 <h2 align="left">My Skills Front-End</h2>
 <div style="display: inline_block"><br>
